@@ -1,0 +1,12 @@
+FROM ubuntu:20.04
+ENV DEBIAN_FRONTEND=noninteractive
+
+RUN apt-get update && \
+    apt-get install -y build-essential openjdk-17-jdk && \
+    rm -rf /var/lib/apt/lists/*
+
+WORKDIR /app
+COPY run.sh /app/run.sh
+RUN chmod +x /app/run.sh
+
+ENTRYPOINT ["/app/run.sh"]
