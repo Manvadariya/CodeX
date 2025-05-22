@@ -2,6 +2,12 @@
 
 CodeX isn't just another coding platform; it's your personal launchpad 🧑‍🚀 to write, run, and share code snippets in a galaxy 🌌 of programming languages. We've built a super user-friendly interface for coding, getting instant results ⚡, and collaborating with fellow coders!
 
+## 🎯 Try It Out!
+
+*   **Live Demo 🌐**: Experience CodeX live at [https://codex-j9wc.onrender.com/](https://codex-j9wc.onrender.com/)
+*   **Run Locally with Docker 🐳**: Get the code and instructions to run CodeX on your own machine using Docker from our GitHub repository: [https://github.com/Manvadariya/CodeX-No-Docker](https://github.com/Manvadariya/CodeX-No-Docker)
+
+
 ## ✨ Features - What's Cooking? 🍳
 
 *   **Multi-language Magic Show 🎩**: Write and execute code in popular languages. Poof! 💨
