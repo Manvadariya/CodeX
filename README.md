@@ -5,7 +5,7 @@ CodeX isn't just another coding platform; it's your personal launchpad 🧑‍�
 ## 🎯 Try It Out!
 
 *   **Live Demo 🌐**: Experience CodeX live at [https://codex-j9wc.onrender.com/](https://codex-j9wc.onrender.com/)
-*   **Run Locally with Docker 🐳**: Get the code and instructions to run CodeX on your own machine using Docker from our GitHub repository: [https://github.com/Manvadariya/CodeX-No-Docker](https://github.com/Manvadariya/CodeX-No-Docker)
+*   **Run Locally without Docker 🐳**: Get the code and instructions to run CodeX on your own machine without Docker from our GitHub repository: [https://github.com/Manvadariya/CodeX-No-Docker](https://github.com/Manvadariya/CodeX-No-Docker)
 
 
 ## ✨ Features - What's Cooking? 🍳
